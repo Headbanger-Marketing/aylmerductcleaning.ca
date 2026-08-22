@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aylmerductcleaning.ca/sitemap-index.xml
