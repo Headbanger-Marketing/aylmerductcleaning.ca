@@ -1,2 +1,25 @@
 # Aylmer Duct Cleaning
-HVAC services in Ontario.
+
+> Aylmer Duct Cleaning is a local HVAC company serving Aylmer, Elgin, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 765-3092  |  Email: contact@aylmerductcleaning.ca  |  Website: https://aylmerductcleaning.ca
+
+## Key pages
+
+- [Home](https://aylmerductcleaning.ca/): Aylmer Duct Cleaning homepage with service overview and FAQ
+- [About](https://aylmerductcleaning.ca/about/): About the company and service area
+- [Contact](https://aylmerductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://aylmerductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Aylmer, Ontario
+- [Dryer Vent Cleaning](https://aylmerductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Aylmer, Ontario
+- [Furnace & AC Cleaning](https://aylmerductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Aylmer, Ontario
+- [HRV & Ventilation Cleaning](https://aylmerductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Aylmer, Ontario
+- [Duct Sanitizing & Deodorizing](https://aylmerductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Aylmer, Ontario
+- [Duct Sealing & Repair](https://aylmerductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Aylmer, Ontario
+- [Commercial Duct Cleaning](https://aylmerductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Aylmer, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Aylmer are answered on the homepage.
